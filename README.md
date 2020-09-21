@@ -1,0 +1,2 @@
+# Deal-Prediction-Tool
+A prediction tool that forecasts every new deal created on a SaaS platform of a company whether it is going to be successful or not. It is a Binary Classifier task which predicts every new deal. The code file contains training file and a production file. The data is retrieved via SQL queries and is stored on Google Sheets. It is then called, processed and analyzed in Python. For Data Privacy reasons the data links are not shared in the code. The final prediction list is then stored back on Google sheets (and/or can also be deployed on other platforms).
